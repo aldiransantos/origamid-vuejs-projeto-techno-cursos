@@ -1,2 +1,1 @@
-# origamid-vuejs-projeto-techno-cursos
-Origamid - Vuejs - Projeto Techno Cursos
+# Origamid - Vuejs - Projeto Techno Cursos
